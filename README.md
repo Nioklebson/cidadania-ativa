@@ -1,4 +1,4 @@
-# Quadro-de-Avisos-Comunitario
+# Cidadania Ativa
 ## 🧪 Testes 
 ID do Teste	Descrição do Teste	Pré-condição	Passos para o Teste	Resultado Esperado	Status
 CT01	Adicionar um aviso com texto válido	O app está aberto no navegador	1. Digitar "Item encontrado na praça" no campo de entrada. 2. Clicar no botão "Adicionar".	O aviso "Item encontrado na praça" deve aparecer na lista.	Aprovado
